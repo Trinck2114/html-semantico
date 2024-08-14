@@ -40,7 +40,7 @@ header, nav, footer{
     flex: 2;
     gap: 20px;
 }
-.artigo-secao{
+.secao,.artigo-secao{
     background-color: #ffa500;
     padding: 20px;
     text-align: center;
